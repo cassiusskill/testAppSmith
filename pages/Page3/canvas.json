@@ -59,7 +59,7 @@
                   "widgetName": "Canvas1",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 480,
+                  "bottomRow": 420,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -90,8 +90,8 @@
                       "isVisibleDownload": true,
                       "displayName": "Table",
                       "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
-                      "topRow": 13,
-                      "bottomRow": 46,
+                      "topRow": 7,
+                      "bottomRow": 40,
                       "columnWidthMap": {
                         "task": 245,
                         "step": 62,
@@ -339,7 +339,7 @@
                         "group"
                       ],
                       "topRow": 0,
-                      "bottomRow": 12,
+                      "bottomRow": 6,
                       "parentRowSpace": 10,
                       "type": "FORM_WIDGET",
                       "hideCard": false,
