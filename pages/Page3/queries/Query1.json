@@ -13,12 +13,12 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Page3",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "SELECT * FROM user  ",
+      "body": "SELECT * FROM users ORDER BY id LIMIT 10;",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
@@ -37,7 +37,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_Query1",
+  "id": "Page3_Query1",
   "deleted": false,
-  "gitSyncId": "6258a2240d3d384069c0ff0c_626b9befcca31f35e65b7008"
+  "gitSyncId": "6258a2240d3d384069c0ff0c_62947f28b4c51656bfeb1f4c"
 }
