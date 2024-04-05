@@ -1,0 +1,1 @@
+SELECT * FROM users  where gender = {{Table1.selectedRow.gender}};

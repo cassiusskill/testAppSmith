@@ -1,0 +1,41 @@
+{
+    "widgetName": "Text2",
+    "displayName": "Text",
+    "iconSVG": "/static/media/icon.97c59b52.svg",
+    "searchTags": [
+        "typography",
+        "paragraph"
+    ],
+    "topRow": 1,
+    "bottomRow": 5,
+    "type": "TEXT_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "overflow": "NONE",
+    "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "leftColumn": 1.5,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "fontFamily"}
+    ],
+    "shouldTruncate": false,
+    "truncateButtonColor": "#FFC13D",
+    "text": "Form",
+    "key": "okwc52l4do",
+    "isDeprecated": false,
+    "rightColumn": 25.5,
+    "textAlign": "LEFT",
+    "dynamicHeight": "FIXED",
+    "widgetId": "t61ov4fkvg",
+    "isVisible": true,
+    "fontStyle": "BOLD",
+    "textColor": "#231F20",
+    "version": 1,
+    "parentId": "3t04mekx0a",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
+    "fontSize": "1.25rem",
+    "minDynamicHeight": 4
+}
