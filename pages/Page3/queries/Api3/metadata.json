@@ -46,9 +46,9 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin"
     },
-    "executeOnLoad": false,
     "name": "Api3",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

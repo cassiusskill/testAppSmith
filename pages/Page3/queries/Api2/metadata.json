@@ -36,9 +36,9 @@
         "key": "path"
       }
     ],
-    "executeOnLoad": false,
     "name": "Api2",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
